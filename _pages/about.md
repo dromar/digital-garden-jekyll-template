@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: om
+permalink: /omb
 ---
 
-*This is an about page.*
+*Det här är en om-sida.*
 
-Feel free to tell the world about what you love! 😍
+Ett försök att samla spridda intressen på en plats.
