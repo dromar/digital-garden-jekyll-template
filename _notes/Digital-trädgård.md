@@ -21,3 +21,7 @@ Vill att DDT innehållsmässigt a) är professionellt representativt men också 
 | Lenovo x220   | Livi            | ~musik        | Filosofi           |
 | Support       | Balans          | Programmering | Zeitgeisten        |
 | Linux         | Självreflektion |               | Plugga distans     |
+
+
+
+P.S. Testar att länka till ett annat inlägg [[your-first-note]]
