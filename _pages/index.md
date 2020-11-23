@@ -8,10 +8,11 @@ permalink: /
 # Tudelu! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Kolla <span style="font-weight: bold">[[Digital-trädgård]]</span> för att kolla vad grejen är..
 </p>
 
-En digital trädgård om lågkonfrontativa grejer och ämnen som intresserar mig.
+En digital trädgård om lågkonfrontativa ämnen som intresserar mig.
+Man är ju feg.
 
 S/O (https://maximevaillancourt.com/). 
 

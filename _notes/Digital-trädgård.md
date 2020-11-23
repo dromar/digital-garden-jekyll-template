@@ -20,4 +20,4 @@ Vill att DDT innehållsmässigt a) är professionellt representativt men också 
 | Programmering | Föräldraskap    | Fotografering | Organisationsteori |
 | Lenovo x220   | Livi            | ~musik        | Filosofi           |
 | Support       | Balans          | Programmering | Zeitgeisten        |
-| Linux         | Självreflektion |               |                    |
+| Linux         | Självreflektion |               | Plugga distans     |
