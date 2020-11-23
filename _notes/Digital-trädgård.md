@@ -11,7 +11,9 @@ Saker = tankar, idéer, intressen, projekt.
 Tycker Den Digitala Trädgården (DDT) rent konceptuellt stämmer överens med hur jag vill jobba med samlandet.
 Gillar idéen med att kunna knyta ihop olika ämnen i större helheter. Intertexualitet kan man kanske kalla det.
 
-Vill att DDT innehållsmässigt a) är professionellt representativt men också b) utvecklar/preciserar/organiserar lösa tankar jag har.
+Vill att DDT  a) är professionellt representativt men också b) utvecklar/preciserar/organiserar lösa tankar jag har.
+
+Allt är ok att editera i efterhand.
 
 Ämnesmässigt blir det spretigt, men följande ordspalter ger kanske en uppfattning & riktlinje:
 
