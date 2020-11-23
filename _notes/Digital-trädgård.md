@@ -15,8 +15,9 @@ Vill att DDT innehållsmässigt a) är professionellt representativt men också 
 
 Ämnesmässigt blir det spretigt, men följande ordspalter ger kanske en uppfattning & riktlinje:
 
-Ordspalt tech       Ordspalt människligt        Ordspalt skapande       Ordspalt akademia
-Programmering       Föräldraskap                Fotografering           Organisationsteori
-Lenovo x220         Livi                        ~musik                  Filosofi
-Support             Balans                      Programmering           Zeitgeisten
-Linux               Åldrande
+| Tech          | Människligt     | Skapande      | Akademia           |
+|---------------|-----------------|---------------|--------------------|
+| Programmering | Föräldraskap    | Fotografering | Organisationsteori |
+| Lenovo x220   | Livi            | ~musik        | Filosofi           |
+| Support       | Balans          | Programmering | Zeitgeisten        |
+| Linux         | Självreflektion |               |                    |
