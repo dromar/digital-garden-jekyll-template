@@ -1,6 +1,6 @@
 ---
 layout: page
-title: om
+title: About
 permalink: /omb
 ---
 
