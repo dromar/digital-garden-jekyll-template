@@ -6,13 +6,13 @@ title: Jobb
 
 Har ett ganska spretigt CV.
  
-Positljon.
-IT-first line
-IT-kvalitet
-IT-appspecialist
-Kvällschef på nått humanitärt
-Organiserat saker
-IT-first line 
+1. Positljon.
+2. IT-first line
+3. IT-kvalitet
+4. IT-appspecialist
+5. Kvällschef på nått humanitärt
+6. Organiserat evenemang&saker
+7. IT-first line 
 
 Inledde starkt med corporate & IT när jag var young, vilket är två miljöer jag faktiskt gillar.
 Slutade med IT när jag var ~25 för jag satt bara framför en dator på jobbet och fritiden.
@@ -28,4 +28,11 @@ Tog upp corporare IT igen när jag var ~29 för det är den miljö jag är bäst
 
 Är väldigt priviligerad att ha något som jag är bra på & gillar.
 
-[[Studier]]
+## En annan tanke om jobb ##
+
+Jag tänker att kroppen har två huvudlägen, ett viloläge och ett jobbläge.
+
+Jobbläget tar ett tag att starta upp, lätt träning kan vara bra för det. När jag kommer in i jobbläget och är hemma så vill jag klara av så mycket som möjligt innan jag blir trött. Så försöker göra allt jobbigt i ett svep: tömma diskmaskin, slänga sopor, plocka saker, föra/hämta saker.
+
+
+[[Studier]] [[Kroppen]] [[Vila]]
