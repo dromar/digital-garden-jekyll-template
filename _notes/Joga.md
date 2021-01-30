@@ -1,5 +1,5 @@
 ---
-title: Yoga
+title: Joga
 ---
 
 ### Yoga
